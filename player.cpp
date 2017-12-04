@@ -1,4 +1,8 @@
 // adding player.cpp
+/*
+defines different action methods for dealing with player
+*/
+
 #include <iostream>
 #include "monopoly.h"
 
