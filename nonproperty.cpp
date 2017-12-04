@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : nonproperty.cpp
-// Author      : Joni Austin
-// Version     :
 // Copyright   : Your copyright notice
-// Description : Actions for nonproperties in monopoly
+// Description : Actions for nonproperties in monopoly, 
 //============================================================================
 
 #include <iostream>
@@ -35,7 +33,6 @@ void NonProperty::do_action()
 		if (in_jail>0 && in_jail<4){
       ***********************
 			roll_die();//FIGURE OUT HOW THIS CAN CONNECT
-      
       ***********************
 			in_jail++;
 		}
