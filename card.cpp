@@ -1,9 +1,16 @@
+/*
+card.cpp prints the Community and Chance cards
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
 #include <stack>
 #include <vector>
+
 using namespace std;
+
+
 
 int main () {
    cout >> "'1' & '0' is equal to 'COMMUNITY' & 'CHANCE'. Input a boolean number.";
